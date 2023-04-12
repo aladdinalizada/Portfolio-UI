@@ -18,3 +18,9 @@ body {
 a {
   color: #000;
 }
+
+/* active li element  */
+
+.active {
+  color: #ff6464;
+}
