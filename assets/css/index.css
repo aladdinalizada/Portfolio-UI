@@ -355,3 +355,34 @@
   line-height: 24px;
   color: var(--dark);
 }
+
+@media (max-width: 700px) {
+  .featured-works {
+    height: 100%;
+  }
+  .featured-works > .head > h2 {
+    font-size: 1.5rem;
+  }
+  .featured-works > .featured-work {
+    width: 100%;
+    row-gap: 4rem;
+  }
+  .featured-works > .featured-work > .work {
+    flex-direction: column;
+    row-gap: 1rem;
+    width: 100%;
+  }
+  .featured-works > .featured-work > .work > .pic > img {
+    width: 100%;
+  }
+
+  .featured-works > .featured-work > .work > .content > h2 {
+    font-size: 1.5rem;
+  }
+  .featured-works > .featured-work > .work > .content > ul > .works-year {
+    font-size: 0.8rem;
+  }
+  .featured-works > .featured-work > .work > .content > p {
+    width: 100%;
+  }
+}
