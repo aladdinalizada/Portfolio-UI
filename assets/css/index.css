@@ -386,3 +386,29 @@
     width: 100%;
   }
 }
+
+/* Footer */
+
+footer {
+  width: 100%;
+  height: 182px;
+  padding: 0 13%;
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+footer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 2rem;
+  width: 100%;
+  padding-bottom: 26px;
+}
+footer ul li {
+  font-size: 30px;
+  color: var(--dark);
+}
