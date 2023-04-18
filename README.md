@@ -23,6 +23,6 @@ Welcome to Portfolio UI! This is a user-friendly web application that allows you
 
 > Portfolio UI is built using modern web technologies, including:
 
-HTML5: For creating the structure and content of the portfolio website.
-CSS3: For styling the portfolio website and customizing the visual elements.
-Font Awesome: For adding icons and symbols to the portfolio website.
+* HTML5: For creating the structure and content of the portfolio website.
+* CSS3: For styling the portfolio website and customizing the visual elements.
+* Font Awesome: For adding icons and symbols to the portfolio website.
