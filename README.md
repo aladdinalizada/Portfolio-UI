@@ -7,7 +7,7 @@ Welcome to Portfolio UI! This is a user-friendly web application that allows you
 
 # How to Use
 
-To get started with Portfolio UI, follow these steps:
+> To get started with Portfolio UI, follow these steps:
 
 1. Installation: Download the Portfolio UI template files or clone the GitHub repository to your local machine.
 
@@ -20,3 +20,9 @@ To get started with Portfolio UI, follow these steps:
 5. Maintenance: Keep your portfolio website up to date by regularly updating the projects, skills, and experience sections with your latest achievements and information. You can also periodically review the design and layout to ensure that it still meets your needs and reflects your personal brand.
 
 # Technologies Used
+
+> Portfolio UI is built using modern web technologies, including:
+
+HTML5: For creating the structure and content of the portfolio website.
+CSS3: For styling the portfolio website and customizing the visual elements.
+Font Awesome: For adding icons and symbols to the portfolio website.
